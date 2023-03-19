@@ -7,11 +7,14 @@ Me chamo Jonathan Richard Souza Santos, amante de Tecnologia e apaixonado por tr
 
 ## 🚀 Sobre mim
 
-Sempre gostei bastante de tudo o que tem haver com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida como um todo.
+Sempre gostei bastante de estar envolvido com o que tem haver com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida como um todo.
+
+Hoje a minha maior motivação vem das inúmeras possibilidades de transformar a forma como vivemos e fazemos algumas coisasa
+través de aplicações e soluções práticas para o dia-a-dia.
 
 Cursando atualmente o Dev.FullStack da StackX - Formação de Desenvolvimento de Software.
 
-Trabalhando como Dev.Trainee em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
+Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
 ## 🛠 Skills
 
