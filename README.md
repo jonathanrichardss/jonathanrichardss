@@ -12,7 +12,8 @@ Sempre gostei bastante de estar envolvido com o que tem haver com tecnologia no 
 Hoje a minha maior motivação vem das inúmeras possibilidades de transformar a forma como vivemos e fazemos algumas coisas
 através de aplicações e soluções práticas para o dia-a-dia.
 
-Cursando atualmente o Dev.FullStack da StackX - Formação de Desenvolvimento de Software.
+Formado como Dev.FullStack pela StackX - Formação de Desenvolvimento de Software.
+Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNISOCIESC.
 
 Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
