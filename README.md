@@ -7,7 +7,8 @@ Me chamo Jonathan Richard Souza Santos, mas pode me chamar de Joe!
 
 ## 🚀 Sobre mim
 
-Sempre gostei bastante de estar envolvido com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida.
+Sempre gostei bastante de estar envolvido com tecnologia no geral, descobri esse grande interesse através dos games 
+e isso acabou se estendendo para outras áreas da minha vida.
 
 Hoje a minha maior motivação das possibilidades de transformar a forma como fazemos algumas coisas
 através de aplicações e soluções práticas para o dia-a-dia.
