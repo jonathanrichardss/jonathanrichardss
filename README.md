@@ -1,20 +1,20 @@
 
 # Olá, seja bem-vindo(a) a bordo! 👋
 
-Me chamo Jonathan Richard Souza Santos, amante de Tecnologia e apaixonado por trabalhar em projetos onde a Tecnologia, Criatividade e Trabalho em equipe andem juntos.
+Me chamo Jonathan Richard Souza Santos, mas pode me chamar de Joe!
 
 
 
 ## 🚀 Sobre mim
 
-Sempre gostei bastante de estar envolvido com o que tem haver com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida como um todo.
+Sempre gostei bastante de estar envolvido com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida.
 
-Hoje a minha maior motivação vem das inúmeras possibilidades de transformar a forma como vivemos e fazemos algumas coisas
+Hoje a minha maior motivação das possibilidades de transformar a forma como fazemos algumas coisas
 através de aplicações e soluções práticas para o dia-a-dia.
 
 Formado como Dev.FullStack pela StackX - Formação de Desenvolvimento de Software.  
 
-Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNISOCIESC.
+Cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela UNISOCIESC.
 
 Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
