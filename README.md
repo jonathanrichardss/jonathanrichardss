@@ -13,7 +13,7 @@ e isso acabou se estendendo para outras áreas da minha vida.
 Hoje a minha maior motivação vem da possibilidade de transformar a forma como vivemos através de aplicações    
 e soluções práticas para o dia-a-dia.   
 
-Formado como Dev.FullStack pela StackX - Formação de Desenvolvimento de Software.  
+Formado como Técnico em Programação pela StackX - Formação de Desenvolvimento de Software.  
 
 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela UNISOCIESC.
 
