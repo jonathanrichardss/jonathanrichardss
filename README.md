@@ -1,7 +1,7 @@
 
 # Olá, seja bem-vindo(a) a bordo! 👋
 
-Me chamo Jonathan Richard Souza Santos, mas pode me chamar de Joe!
+Me chamo Jonathan, mas pode me chamar de Joe!
 
 
 
