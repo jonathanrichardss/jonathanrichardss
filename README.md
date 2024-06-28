@@ -9,7 +9,7 @@ Me chamo Jonathan, mas pode me chamar de Joe, John ou Johnny!
 
 Hoje a minha maior motivação vem da possibilidade de transformar a forma como vivemos através de aplicações e soluções práticas para o dia-a-dia.   
 
-StackX - Formação de Desenvolvimento de Software
+StackX - Formação de Desenvolvimento de Software   
 UNISOCIESC - Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Trabalhando como Dev Jr em um projeto desktop com Java 
