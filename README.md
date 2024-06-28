@@ -1,23 +1,19 @@
 
 # Olá, seja bem-vindo(a) a bordo! 👋
 
-Me chamo Jonathan, mas pode me chamar de Joe!
+Me chamo Jonathan, mas pode me chamar de Joe, John ou Johnny!
 
 
 
 ## 🚀 Sobre mim
 
-Sempre gostei bastante de estar envolvido com tecnologia no geral, descobri esse grande interesse através dos games     
-e isso acabou se estendendo para outras áreas da minha vida.
+Hoje a minha maior motivação vem da possibilidade de transformar a forma como vivemos através de aplicações e soluções práticas para o dia-a-dia.   
 
-Hoje a minha maior motivação vem da possibilidade de transformar a forma como vivemos através de aplicações    
-e soluções práticas para o dia-a-dia.   
+StackX - Formação de Desenvolvimento de Software
+UNISOCIESC - Tecnologia em Análise e Desenvolvimento de Sistemas
 
-Formado como Técnico em Programação pela StackX - Formação de Desenvolvimento de Software.  
-
-Cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela UNISOCIESC.
-
-Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
+Trabalhando como Dev Jr em um projeto desktop com Java 
+(JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
 ## 🛠 Skills
 
