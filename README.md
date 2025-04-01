@@ -12,7 +12,7 @@ Hoje a minha maior motivação vem da possibilidade de transformar a forma como 
 StackX - Formação de Desenvolvimento de Software   
 UNISOCIESC - Tecnologia em Análise e Desenvolvimento de Sistemas
 
-Trabalhando como Dev Jr em um projeto desktop com Java 
+Software Developer em um projeto desktop com Java 
 (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
 ## 🛠 Skills
