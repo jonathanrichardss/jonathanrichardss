@@ -7,13 +7,13 @@ Me chamo Jonathan, mas pode me chamar de Joe, John ou Johnny!
 
 ## 🚀 Sobre mim
 
-Hoje a minha maior motivação vem da possibilidade de transformar a forma como vivemos através de aplicações e soluções práticas para o dia-a-dia.   
+"Minha motivação? Criar soluções que deixam o dia a dia mais fácil — e, de preferência, que acenda aquela luz de ‘como é que eu vivi sem isso?’"
 
 StackX - Formação de Desenvolvimento de Software   
 UNISOCIESC - Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Software Developer em um projeto desktop com Java 
-(JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
+(JavaFx, Springboot, PostgreSQL, CVS, Linux, Docker).
 
 ## 🛠 Skills
 
